@@ -1,3 +1,3 @@
 # streamlit_app
 
-Go to ![just-tutorial[https://just-tutorial.streamlit.app/]} app
+View [just-tutorial](https://just-tutorial.streamlit.app/) app.
